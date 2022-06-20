@@ -1,2 +1,2 @@
 # room-auto
-Room Automation
+Room Automation Project using IoT and Machine Learning
